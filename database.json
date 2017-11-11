@@ -7,10 +7,16 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/a7cd8acbffe43680c239e623713922be.git:quad_frame.groovy": [
+      "https://gist.github.com/a7cd8acbffe43680c239e623713922be.git",
+      "quad_frame.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.21.2",
-    "skinBranch": "0.21.2",
+    "fontsize": 12,
+    "skinBranch": "0.23.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
