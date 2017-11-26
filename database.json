@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/402f8d0cb0992b221525e7b4872af32a.git:60t gear c channel mount.groovy": [
+      "https://gist.github.com/402f8d0cb0992b221525e7b4872af32a.git",
+      "60t gear c channel mount.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.21.2",
     "fontsize": 12.0,
