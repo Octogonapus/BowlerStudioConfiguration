@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/eb57f660fd70ed4fefb73d4694979427.git:javaCad.groovy": [
+      "https://gist.github.com/eb57f660fd70ed4fefb73d4694979427.git",
+      "javaCad.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.21.2",
     "fontsize": 12.0,
