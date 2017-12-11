@@ -11,16 +11,12 @@
     "https://gist.github.com/a7cd8acbffe43680c239e623713922be.git:quad_frame.groovy": [
       "https://gist.github.com/a7cd8acbffe43680c239e623713922be.git",
       "quad_frame.groovy"
-    ],
-    "https://gist.github.com/402f8d0cb0992b221525e7b4872af32a.git:60t gear c channel mount.groovy": [
-      "https://gist.github.com/402f8d0cb0992b221525e7b4872af32a.git",
-      "60t gear c channel mount.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.21.2",
     "fontsize": 12.0,
-    "skinBranch": "0.25.0",
+    "skinBranch": "0.24.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
