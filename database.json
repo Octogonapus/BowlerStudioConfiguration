@@ -8,15 +8,15 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/Octogonapus/SmallKat.git:launch.groovy": [
-      "https://github.com/Octogonapus/SmallKat.git",
-      "launch.groovy"
+    "https://gist.github.com/05c9c9618618eb2624fcde829b8d670d.git:seaLinkGen.groovy": [
+      "https://gist.github.com/05c9c9618618eb2624fcde829b8d670d.git",
+      "seaLinkGen.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.21.2",
     "fontsize": 12.0,
-    "skinBranch": "0.25.2",
+    "skinBranch": "0.27.6",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
