@@ -8,15 +8,15 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/05c9c9618618eb2624fcde829b8d670d.git:seaLinkGen.groovy": [
-      "https://gist.github.com/05c9c9618618eb2624fcde829b8d670d.git",
-      "seaLinkGen.groovy"
+    "https://github.com/Octogonapus/BevelGearWristModule.git:Wrist.groovy": [
+      "https://github.com/Octogonapus/BevelGearWristModule.git",
+      "Wrist.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.21.2",
     "fontsize": 12.0,
-    "skinBranch": "0.27.6",
+    "skinBranch": "0.28.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
