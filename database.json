@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/madhephaestus/carl-the-hexapod.git:LinkedCadEngine.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "LinkedCadEngine.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.21.2",
     "fontsize": 12.0,
