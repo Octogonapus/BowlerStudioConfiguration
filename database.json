@@ -7,12 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git:LinkedCadEngine.groovy": [
-      "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git",
-      "LinkedCadEngine.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.21.2",
     "fontsize": 12.0,
