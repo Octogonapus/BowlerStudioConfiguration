@@ -7,12 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/5681d11165708c3aec1ed5cf8cf38238.git:6DOFHephaestusWorkCell.xml": [
-      "https://gist.github.com/5681d11165708c3aec1ed5cf8cf38238.git",
-      "6DOFHephaestusWorkCell.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.21.2",
     "fontsize": 12.0,
