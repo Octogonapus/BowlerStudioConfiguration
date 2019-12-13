@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://gist.github.com/40b38acfb57266cf06abe41c34d1efcf.git": [
+      "GIST: InputArmBase_copy copy of InputArmBase",
+      "1576206612873"
+    ],
     "https://github.com/Octogonapus/delta-kat.git": [
       "Octogonapus/delta-kat",
       "1576206590065"
@@ -30,9 +34,9 @@
       "https://github.com/NotOctogonapus/greycat.git",
       "myWalkingScript.groovy"
     ],
-    "https://github.com/Octogonapus/delta-kat.git:delta-kat.xml": [
-      "https://github.com/Octogonapus/delta-kat.git",
-      "delta-kat.xml"
+    "https://gist.github.com/40b38acfb57266cf06abe41c34d1efcf.git:WalkingDriveEngine.groovy": [
+      "https://gist.github.com/40b38acfb57266cf06abe41c34d1efcf.git",
+      "WalkingDriveEngine.groovy"
     ]
   },
   "BowlerStudioConfigs": {
