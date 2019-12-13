@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/Octogonapus/delta-kat.git": [
+      "Octogonapus/delta-kat",
+      "1576206590065"
+    ],
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
       "1576100776715"
@@ -25,6 +29,10 @@
     "https://github.com/NotOctogonapus/greycat.git:myWalkingScript.groovy": [
       "https://github.com/NotOctogonapus/greycat.git",
       "myWalkingScript.groovy"
+    ],
+    "https://github.com/Octogonapus/delta-kat.git:delta-kat.xml": [
+      "https://github.com/Octogonapus/delta-kat.git",
+      "delta-kat.xml"
     ]
   },
   "BowlerStudioConfigs": {
