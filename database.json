@@ -34,6 +34,10 @@
       "https://github.com/NotOctogonapus/greycat.git",
       "myWalkingScript.groovy"
     ],
+    "https://gist.github.com/cf821c5ed30dfa2a8b3b621bc6f211a1.git:kotlintest.kt": [
+      "https://gist.github.com/cf821c5ed30dfa2a8b3b621bc6f211a1.git",
+      "kotlintest.kt"
+    ],
     "https://github.com/Octogonapus/delta-kat.git:delta-kat.xml": [
       "https://github.com/Octogonapus/delta-kat.git",
       "delta-kat.xml"
