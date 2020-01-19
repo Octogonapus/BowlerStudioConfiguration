@@ -25,7 +25,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/cf821c5ed30dfa2a8b3b621bc6f211a1.git:kotlintest.kt": [
+      "https://gist.github.com/cf821c5ed30dfa2a8b3b621bc6f211a1.git",
+      "kotlintest.kt"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.21.2",
