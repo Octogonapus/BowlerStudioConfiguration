@@ -25,28 +25,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/NotOctogonapus/greycat.git:dynamics.groovy": [
-      "https://github.com/NotOctogonapus/greycat.git",
-      "dynamics.groovy"
-    ],
-    "https://github.com/NotOctogonapus/greycat.git:launch.groovy": [
-      "https://github.com/NotOctogonapus/greycat.git",
-      "launch.groovy"
-    ],
-    "https://github.com/NotOctogonapus/greycat.git:myWalkingScript.groovy": [
-      "https://github.com/NotOctogonapus/greycat.git",
-      "myWalkingScript.groovy"
-    ],
-    "https://gist.github.com/cf821c5ed30dfa2a8b3b621bc6f211a1.git:kotlintest.kt": [
-      "https://gist.github.com/cf821c5ed30dfa2a8b3b621bc6f211a1.git",
-      "kotlintest.kt"
-    ],
-    "https://github.com/Octogonapus/delta-kat.git:delta-kat.xml": [
-      "https://github.com/Octogonapus/delta-kat.git",
-      "delta-kat.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.21.2",
