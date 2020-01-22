@@ -29,7 +29,16 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/Octogonapus/dShaftWithCollarCadGenerator.git:dShaftWithCollar.groovy": [
+      "https://github.com/Octogonapus/dShaftWithCollarCadGenerator.git",
+      "dShaftWithCollar.groovy"
+    ],
+    "https://github.com/Octogonapus/HephaestusWorkCell_copy.git:seaLinkGen.groovy": [
+      "https://github.com/Octogonapus/HephaestusWorkCell_copy.git",
+      "seaLinkGen.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.21.2",
