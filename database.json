@@ -46,10 +46,6 @@
       "https://github.com/Octogonapus/dShaftWithCollarCadGenerator.git",
       "dShaftWithCollar.groovy"
     ],
-    "https://github.com/Octogonapus/Hardware-Dimensions.git:json/hobbyServoHorn.json": [
-      "https://github.com/Octogonapus/Hardware-Dimensions.git",
-      "json/hobbyServoHorn.json"
-    ],
     "https://github.com/Octogonapus/HephaestusWorkCell_copy.git:seaLinkGen.groovy": [
       "https://github.com/Octogonapus/HephaestusWorkCell_copy.git",
       "seaLinkGen.groovy"
