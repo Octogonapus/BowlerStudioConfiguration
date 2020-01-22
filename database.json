@@ -45,10 +45,6 @@
     "https://github.com/Octogonapus/dShaftWithCollarCadGenerator.git:dShaftWithCollar.groovy": [
       "https://github.com/Octogonapus/dShaftWithCollarCadGenerator.git",
       "dShaftWithCollar.groovy"
-    ],
-    "https://github.com/Octogonapus/HephaestusWorkCell_copy.git:seaLinkGen.groovy": [
-      "https://github.com/Octogonapus/HephaestusWorkCell_copy.git",
-      "seaLinkGen.groovy"
     ]
   },
   "BowlerStudioConfigs": {
