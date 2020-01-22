@@ -29,12 +29,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/2d30d78be7636fa47698718a3e4c3774.git:ExtrudeBezierAPI.groovy": [
-      "https://gist.github.com/2d30d78be7636fa47698718a3e4c3774.git",
-      "ExtrudeBezierAPI.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.21.2",
