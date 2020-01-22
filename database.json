@@ -24,6 +24,10 @@
       "CommonWealthRobotics/DHParametersCadDisplay",
       "1576100776715"
     ],
+    "https://github.com/Octogonapus/Hardware-Dimensions.git": [
+      "Octogonapus/Hardware-Dimensions",
+      "1579719712199"
+    ],
     "https://gist.github.com/cf821c5ed30dfa2a8b3b621bc6f211a1.git": [
       "GIST: kotlintest.kt",
       "1579392070406"
@@ -41,6 +45,10 @@
     "https://github.com/Octogonapus/dShaftWithCollarCadGenerator.git:dShaftWithCollar.groovy": [
       "https://github.com/Octogonapus/dShaftWithCollarCadGenerator.git",
       "dShaftWithCollar.groovy"
+    ],
+    "https://github.com/Octogonapus/Hardware-Dimensions.git:json/hobbyServoHorn.json": [
+      "https://github.com/Octogonapus/Hardware-Dimensions.git",
+      "json/hobbyServoHorn.json"
     ],
     "https://github.com/Octogonapus/HephaestusWorkCell_copy.git:seaLinkGen.groovy": [
       "https://github.com/Octogonapus/HephaestusWorkCell_copy.git",
