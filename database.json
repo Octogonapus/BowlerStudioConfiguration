@@ -3,6 +3,10 @@
     "https://github.com/Octogonapus/dShaftWithCollarCadGenerator.git": [
       "Octogonapus/dShaftWithCollarCadGenerator",
       "1579975594336"
+    ],
+    "https://github.com/Octogonapus/CAD_ISP.git": [
+      "Octogonapus/CAD_ISP",
+      "1579975670363"
     ]
   },
   "studio-open-web": {},
@@ -10,6 +14,10 @@
     "https://github.com/Octogonapus/dShaftWithCollarCadGenerator.git:dShaftWithCollar.groovy": [
       "https://github.com/Octogonapus/dShaftWithCollarCadGenerator.git",
       "dShaftWithCollar.groovy"
+    ],
+    "https://github.com/Octogonapus/CAD_ISP.git:HephaestusWorkCell_copy.xml": [
+      "https://github.com/Octogonapus/CAD_ISP.git",
+      "HephaestusWorkCell_copy.xml"
     ]
   },
   "BowlerStudioConfigs": {
