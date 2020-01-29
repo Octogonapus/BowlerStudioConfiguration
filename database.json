@@ -1,13 +1,25 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/Octogonapus/CAD_ISP.git": [
+      "Octogonapus/CAD_ISP",
+      "1580323079233"
+    ]
+  },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/Octogonapus/CAD_ISP.git:HephaestusWorkCell_copy.xml": [
+      "https://github.com/Octogonapus/CAD_ISP.git",
+      "HephaestusWorkCell_copy.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "firstVersion": "1.3.1",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12,
+    "fontsize": 12.0,
     "skinBranch": "1.3.1",
-    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git"
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "currentVersion": "1.3.1"
   }
 }
