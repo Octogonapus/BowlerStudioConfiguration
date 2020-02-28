@@ -18,10 +18,6 @@
     "https://github.com/Octogonapus/CAD_ISP.git:HephaestusWorkCell_copy.xml": [
       "https://github.com/Octogonapus/CAD_ISP.git",
       "HephaestusWorkCell_copy.xml"
-    ],
-    "https://github.com/Octogonapus/CAD_ISP.git:seaLinkGen.groovy": [
-      "https://github.com/Octogonapus/CAD_ISP.git",
-      "seaLinkGen.groovy"
     ]
   },
   "BowlerStudioConfigs": {
