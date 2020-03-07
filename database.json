@@ -18,6 +18,10 @@
     "https://github.com/Octogonapus/CAD_ISP.git:HephaestusWorkCell_copy.xml": [
       "https://github.com/Octogonapus/CAD_ISP.git",
       "HephaestusWorkCell_copy.xml"
+    ],
+    "https://github.com/Octogonapus/CAD_ISP.git:seaLinkGen.groovy": [
+      "https://github.com/Octogonapus/CAD_ISP.git",
+      "seaLinkGen.groovy"
     ]
   },
   "BowlerStudioConfigs": {
@@ -25,7 +29,7 @@
     "firstVersion": "1.3.1",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 20,
     "skinBranch": "1.4.4",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "1.4.4"
