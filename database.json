@@ -14,7 +14,16 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/Octogonapus/greycat.git:MediumKat.xml": [
+      "https://github.com/Octogonapus/greycat.git",
+      "MediumKat.xml"
+    ],
+    "https://github.com/Octogonapus/greycat.git:myWalkingScript.groovy": [
+      "https://github.com/Octogonapus/greycat.git",
+      "myWalkingScript.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.3.1",
