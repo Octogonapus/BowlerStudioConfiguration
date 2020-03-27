@@ -11,6 +11,10 @@
     "https://github.com/Octogonapus/CAD_ISP.git": [
       "Octogonapus/CAD_ISP",
       "1582663884587"
+    ],
+    "https://github.com/Octogonapus/SmallKat_V2.git": [
+      "Octogonapus/SmallKat_V2",
+      "1585345266087"
     ]
   },
   "studio-open-web": {},
@@ -18,6 +22,10 @@
     "https://github.com/Octogonapus/greycat.git:myWalkingScript.groovy": [
       "https://github.com/Octogonapus/greycat.git",
       "myWalkingScript.groovy"
+    ],
+    "https://github.com/Octogonapus/SmallKat_V2.git:loadRobot.groovy": [
+      "https://github.com/Octogonapus/SmallKat_V2.git",
+      "loadRobot.groovy"
     ],
     "https://github.com/Octogonapus/greycat.git:launch.groovy": [
       "https://github.com/Octogonapus/greycat.git",
