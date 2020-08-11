@@ -8,10 +8,6 @@
       "Octogonapus/greycat",
       "1584232568791"
     ],
-    "https://github.com/Octogonapus/6dofServoArm.git": [
-      "Octogonapus/6dofServoArm",
-      "1597014816012"
-    ],
     "https://github.com/Octogonapus/CAD_ISP.git": [
       "Octogonapus/CAD_ISP",
       "1582663884587"
@@ -22,7 +18,12 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/madhephaestus/6dofServoArm.git:6dofServoArm.xml": [
+      "https://github.com/madhephaestus/6dofServoArm.git",
+      "6dofServoArm.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.3.1",
